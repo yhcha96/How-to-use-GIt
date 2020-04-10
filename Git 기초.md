@@ -118,7 +118,7 @@ Changes not staged for commit:
 
   이 화면에서 명령문을 복사해서 사용하여 원격저장소 설정하면 됨
 
-  ![image-20200410162821732](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200410162821732.png)
+  ![image-20200410162821732](images/image-20200410162821732.png)
 
 * 원격저장소 설정
 
