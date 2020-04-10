@@ -4,6 +4,17 @@
 
 > git으로 관리하지 않고 싶은 파일 목록은 `.gitignore` 에 정의한다.
 
+```bash
+$ vi .gitignore
+```
+
+에 들어가서
+
+1. `i`누른 후 [gitignore.io](https://www.gitignore.io/)에서 복사한 것을 붙여넣는다
+2. `esc` -> `:`->`wq`로 vi 에서 나온다
+
+
+
 ```
 *.xlsx          # 특정 확장자
 secret.txt      # 특정 파일
